@@ -1,0 +1,6 @@
+C:\ElevenFiftyProjects\GoldBadge\TriviaConsoleGame\TriviaClassLibrary\bin\Debug\TriviaClassLibrary.dll
+C:\ElevenFiftyProjects\GoldBadge\TriviaConsoleGame\TriviaClassLibrary\bin\Debug\TriviaClassLibrary.pdb
+C:\ElevenFiftyProjects\GoldBadge\TriviaConsoleGame\TriviaClassLibrary\obj\Debug\TriviaClassLibrary.csproj.AssemblyReference.cache
+C:\ElevenFiftyProjects\GoldBadge\TriviaConsoleGame\TriviaClassLibrary\obj\Debug\TriviaClassLibrary.csproj.CoreCompileInputs.cache
+C:\ElevenFiftyProjects\GoldBadge\TriviaConsoleGame\TriviaClassLibrary\obj\Debug\TriviaClassLibrary.dll
+C:\ElevenFiftyProjects\GoldBadge\TriviaConsoleGame\TriviaClassLibrary\obj\Debug\TriviaClassLibrary.pdb
